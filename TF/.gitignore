@@ -1,0 +1,2 @@
+build/
+esp-{doug,pedro,gabriel,arthur}/sdkconfig{,.old}
