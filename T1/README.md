@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/SmCo-Bsf)
-
 # Sistema de Gestão de Estacionamento
 
 Este projeto implementa um sistema de gestão de estacionamento distribuído, utilizando servidores para monitorar e gerenciar o fluxo de carros em diferentes andares. O servidor central se comunica com servidores distribuídos para manter atualizadas as informações sobre o número de carros, vagas disponíveis, e a receita gerada.
