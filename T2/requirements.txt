@@ -1,0 +1,13 @@
+Adafruit-GPIO==1.0.3
+Adafruit-PureIO==1.1.11
+Adafruit-SSD1306==1.6.2
+bmp280==1.0.0
+future==1.0.0
+i2cdevice==1.0.0
+iso8601==2.1.0
+pillow==10.4.0
+pyserial==3.5
+PyYAML==6.0.1
+RPi.GPIO==0.7.1
+smbus2==0.4.3
+spidev==3.6
