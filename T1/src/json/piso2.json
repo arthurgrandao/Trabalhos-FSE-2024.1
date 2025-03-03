@@ -1,0 +1,39 @@
+{
+    "host_servidor_central": "localhost",
+    "port_servidor_central": 10701,
+    "host": "localhost",
+    "port": 10710,
+    "nome": "piso2",
+    "outputs": [
+        {
+            "tag": "ENDERECO_01",
+            "gpio": 9
+        },
+        {
+            "tag": "ENDERECO_02",
+            "gpio": 11
+        },
+        {
+            "tag": "ENDERECO_03",
+            "gpio": 15
+        },
+        {
+            "tag": "SINAL_DE_LOTADO_FECHADO",
+            "gpio": 14
+        }
+    ],
+    "inputs": [
+        {
+            "tag": "SENSOR_DE_VAGA",
+            "gpio": 1
+        },
+        {
+            "tag": "SENSOR_DE_PASSAGEM_1",
+            "gpio": 0
+        },
+        {
+            "tag": "SENSOR_DE_PASSAGEM_2",
+            "gpio": 7
+        }
+    ]
+}

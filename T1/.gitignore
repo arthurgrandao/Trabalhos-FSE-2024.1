@@ -1,0 +1,8 @@
+src/__pycache__/
+src/piso1/__pycache__/
+src/piso2/__pycache__/
+src/central/__pycache__/
+src/conexao/__pycache__/
+src/entidades/__pycache__/
+src/terreo/__pycache__/
+src/utils/__pycache__/
